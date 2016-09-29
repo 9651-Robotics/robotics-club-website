@@ -132,7 +132,7 @@
 		<?php include_once("navbar.php")  ?>
 		<?php include_once("footer.php")  ?>
 		<div class="container">
-			<?php include_once("site_wide.php") ?>
+			
 
 			<div class="modal fade" tabindex="-1" role="dialog" id="changePassword">
 				<div class="modal-dialog">

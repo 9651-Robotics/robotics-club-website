@@ -86,7 +86,7 @@
 		<?php include_once("navbar.php")  ?>
 		<?php include_once("footer.php")  ?>
 		<div class="container" style="text-align:center;">
-			<?php include_once("site_wide.php") ?>
+			
 			<h1 class="page-header">Login</h1>
 			<h3>Don't have an account? <b><a href="register.php">Register</a></b>.</h3>
 			<form class="form-signin" action="?login" method="post">
